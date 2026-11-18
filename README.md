@@ -1,7 +1,7 @@
 # LPC Speech Coding
 
 Speech coding with Linear Predictive Coding (LPC) in MATLAB, inspired by the LPC10
-coder used in the 1978 Speak & Spell toy. Homework 1 for the DAAP course
+coder used in the 1978 Speak & Spell toy. Homework 1 for the Digital Audio Analysis and Processing course
 (Politecnico di Milano, 2025).
 
 Authors: Martina Luyten and Andrea Casati
