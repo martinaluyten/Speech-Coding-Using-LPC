@@ -5,6 +5,7 @@ coder used in the 1978 Speak & Spell toy. Homework 1 for the DAAP course
 (Politecnico di Milano, 2025).
 
 Authors: Martina Luyten and Andrea Casati
+
 Course material and template: Mirco Pezzoli (DAAP 2025)
 
 ## What it does
