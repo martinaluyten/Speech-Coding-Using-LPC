@@ -55,3 +55,13 @@ sounds robotic, as in the Speak & Spell. The report discusses why.
 | `input/` | Original audio recordings |
 | `output/` | Decoded audio produced by the coder |
 | `report.pdf` | Full report with method, results and limitations |
+
+
+## Acknowledgements
+
+Developed for the course Digital Audio Analysis and Processing (DAAP) at
+Politecnico di Milano (2025). The assignment and the MATLAB templates were provided
+by the course (material by Mirco Pezzoli, DAAP 2025): `lpc_test.m`, `encoder.m`,
+`voicedframedetection.m`, `pitchdetectionamdf.m` and `generateexcitationsignal.m`
+carry his header. We completed the implementation of the encoder, the decoder and
+the helper functions.
